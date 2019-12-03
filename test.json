@@ -1,1 +1,90 @@
-{"name":"mkyong.com","messages":["msg 1","msg 2","msg 3"],"age":100}
+{
+  "data": {
+    "press": [
+      {
+        "date": "2019-11-12T08:00:00.000Z",
+        "title": "From Tikka Masala to Mexican BBQ, Home Kitchens Set To Expand Across State",
+        "source": "Capradio & California Dream",
+        "url": "http://www.capradio.org/articles/2019/11/12/from-tikka-masala-to-mexican-bbq-home-kitchens-set-to-expand-across-state/?fbclid=IwAR0silmZauVsGeDENR-kYP3p5ShVNnigwC3xuJUiGAy_bv9vaLDnSKBkY_s",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-11-06T08:00:00.000Z",
+        "title": "Can You Smell What Your Neighbor Is Cookin? A Check-in On Implementation of California’s New Home Kitchen Program",
+        "source": "KPCC 89.3 NPR",
+        "url": "https://www.scpr.org/programs/airtalk/2019/11/06/65073/can-you-smell-what-your-neighbor-is-cookin-a-check/",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-08-27T07:00:00.000Z",
+        "source": "Marketplace",
+        "title": "California law puts home cooks in the gig economy",
+        "url": "https://www.marketplace.org/2019/08/27/california-law-puts-home-cooks-in-the-gig-economy/?fbclid=IwAR028FLGLzO7TzSQmUdiuyQ5MLPzD3y-mU_jkB-jvVft32Ft2ItLFy-7Pss",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-07-24T07:00:00.000Z",
+        "title": "The only place to get a home-cooked meal you didn’t cook is in Riverside County",
+        "source": "Press Enterprise",
+        "url": "https://www.pe.com/2019/07/24/how-to-get-a-home-cooked-meal-you-didnt-cook/?fbclid=IwAR0dS4FMGNfqA9oIPHC8f6pYuhpqPWUgixYNl0r4PmiuwlpPTIIxkNhnZ3E",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-07-08T07:00:00.000Z",
+        "title": "You Can Now Sell Meals Out Of Your Own Kitchen — If You Live In Riverside County",
+        "source": "LAist",
+        "url": "https://laist.com/2019/07/08/home_cooks_selling_meals_riverside_county_.php?_ga=2.260500168.414428462.1562603183-1323989076.1562173863&fbclid=IwAR0BXvFdKLvim-IHtz-h9HGdHVWfa-WOlbUefhTQN7vJS7BAIH8u94umCWY",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-07-06T07:00:00.000Z",
+        "title": "Foodnome",
+        "source": "Good Day Sacramento",
+        "url": "https://gooddaysacramento.cbslocal.com/video/4119228-foodnome/?fbclid=IwAR3a5schth_MwXrK-mPNxznKIJPqt79Zc5ijHkyyt8X2tqb0gNDNRP3V8kc",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-07-02T07:00:00.000Z",
+        "title": "California legalized home cooking sales last year. Why are they still banned locally?",
+        "source": "The Sacramento Bee",
+        "url": "https://www.sacbee.com/site-services/newsletters/food-and-wine/article230671439.html",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-06-21T07:00:00.000Z",
+        "title": "First Home Restaurant In The United States Gets Permit",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/first-home-restaurant-united-states-130500356.html",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-06-03T07:00:00.000Z",
+        "title": "Startup of the Month: Foodnome",
+        "source": "Comstocks",
+        "url": "https://www.comstocksmag.com/web-only/startup-month-foodnome",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-05-22T07:00:00.000Z",
+        "title": "Home cooks collective pushes Yolo County to opt in to new state law",
+        "source": "KCRA 3 (NBC News)",
+        "url": "https://www.kcra.com/article/home-cooks-collective-pushes-yolo-county-to-opt-in-state-law/27562624?fbclid=IwAR1aOIuA9kp4YyOAXA5KQATVq37GtXxsANTi3d8zbb8oxoN4Od4lib169ME",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-05-20T07:00:00.000Z",
+        "title": "Micro-Based Home Cooked Meals Could Democratize the Food Service Industry Locally",
+        "source": "The Davis Vanguard",
+        "url": "https://www.davisvanguard.org/2019/05/micro-based-home-cooked-meals-could-democratize-the-food-service-industry-locally/",
+        "imageURL": ""
+      },
+      {
+        "date": "2019-01-17T08:00:00.000Z",
+        "title": "Selling Food From Your Kitchen Is Legal In California, But There's A Catch",
+        "source": "NPR ‘The Salt'",
+        "url": "https://www.npr.org/sections/thesalt/2019/01/17/685626391/selling-food-from-your-kitchen-is-legal-in-california-but-theres-a-catch?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20190117&fbclid=IwAR1_tuonMUxvgMb4b04q9bWOX3nLK94PTJKaPP2YA2u3yiOWUcWGcg06enA",
+        "imageURL": ""
+      }
+    ]
+  }
+}
