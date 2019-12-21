@@ -31,8 +31,6 @@ function getSummary(text) {
 }
 ```
 
-~~Important to Note: Please add the press items in reverse chronological order (newest at the front, oldest at the back. This is important because the newest press item will be featured in the hero in the Press page.)~~
-
-- I've added a `featured` property which indicates whether or not a press item is featured as the first article on the top of the press page.
+~~Important to Note: Please add the press items in reverse chronological order (newest at the front, oldest at the back. This is important because the newest press item will be featured in the hero in the Press page.)~~ **I've added a `featured` property which indicates whether or not a press item is featured as the first article on the top of the press page however, please still keep the newest press items at the front of the `press` array.**
 
 You can see the raw JSON file [here](https://raw.githubusercontent.com/foodnome/foodnome-static/master/press.json).
