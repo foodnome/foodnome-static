@@ -8,7 +8,9 @@
         "source": "Capradio & California Dream",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575479330/fnyuvm0u8emylcpsoe42.png",
         "url": "http://www.capradio.org/articles/2019/11/12/from-tikka-masala-to-mexican-bbq-home-kitchens-set-to-expand-across-state/?fbclid=IwAR0silmZauVsGeDENR-kYP3p5ShVNnigwC3xuJUiGAy_bv9vaLDnSKBkY_s",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575479495/w4bwmjgsyqbccqn0z33h.jpg"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575479495/w4bwmjgsyqbccqn0z33h.jpg",
+        "id": 11,
+        "featured": true
       },
       {
         "date": "2019-11-06T08:00:00.000Z",
@@ -17,7 +19,9 @@
         "source": "KPCC 89.3 NPR",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575441530/sx1uq8r3fidukrwwoqjp.png",
         "url": "https://www.scpr.org/programs/airtalk/2019/11/06/65073/can-you-smell-what-your-neighbor-is-cookin-a-check/",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575441403/ut6qr4trj7t3c9j8oeay.jpg"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575441403/ut6qr4trj7t3c9j8oeay.jpg",
+        "id": 10,
+        "featured": false
       },
       {
         "date": "2019-08-27T07:00:00.000Z",
@@ -26,7 +30,9 @@
         "source": "Marketplace",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575479996/l7auvrwk34adzcilj0e4.png",
         "url": "https://www.marketplace.org/2019/08/27/california-law-puts-home-cooks-in-the-gig-economy/?fbclid=IwAR028FLGLzO7TzSQmUdiuyQ5MLPzD3y-mU_jkB-jvVft32Ft2ItLFy-7Pss",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575483938/b2mrtgfyyp5y5tawxpee.jpg"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575483938/b2mrtgfyyp5y5tawxpee.jpg",
+        "id": 9,
+        "featured": false
       },
       {
         "date": "2019-07-24T07:00:00.000Z",
@@ -35,7 +41,9 @@
         "source": "Press Enterprise",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575480505/xuyawa64kpkljo7y1vly.png",
         "url": "https://www.pe.com/2019/07/24/how-to-get-a-home-cooked-meal-you-didnt-cook/?fbclid=IwAR0dS4FMGNfqA9oIPHC8f6pYuhpqPWUgixYNl0r4PmiuwlpPTIIxkNhnZ3E",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575480244/e5timoibawqiyccjpmfd.jpg"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575480244/e5timoibawqiyccjpmfd.jpg",
+        "id": 8,
+        "featured": false
       },
       {
         "date": "2019-07-08T07:00:00.000Z",
@@ -44,7 +52,9 @@
         "source": "LAist",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575480630/duioko2mgd4gesogsspj.png",
         "url": "https://laist.com/2019/07/08/home_cooks_selling_meals_riverside_county_.php?_ga=2.260500168.414428462.1562603183-1323989076.1562173863&fbclid=IwAR0BXvFdKLvim-IHtz-h9HGdHVWfa-WOlbUefhTQN7vJS7BAIH8u94umCWY",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575480762/duzyix75aqu1yewksnqy.jpg"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575480762/duzyix75aqu1yewksnqy.jpg",
+        "id": 7,
+        "featured": false
       },
       {
         "date": "2019-07-06T07:00:00.000Z",
@@ -53,7 +63,9 @@
         "source": "Good Day Sacramento",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575480918/jx3q6mkg6itineptvals.png",
         "url": "https://gooddaysacramento.cbslocal.com/video/4119228-foodnome/?fbclid=IwAR3a5schth_MwXrK-mPNxznKIJPqt79Zc5ijHkyyt8X2tqb0gNDNRP3V8kc",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575481038/ofs1yckbspctzvihlr8u.png"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575481038/ofs1yckbspctzvihlr8u.png",
+        "id": 6,
+        "featured": false
       },
       {
         "date": "2019-07-02T07:00:00.000Z",
@@ -62,7 +74,9 @@
         "source": "The Sacramento Bee",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575484101/z3rerodyi9wz8gh1fghz.png",
         "url": "https://www.sacbee.com/site-services/newsletters/food-and-wine/article230671439.html",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575481401/gh0jmyrh1ysfvjixvame.jpg"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575481401/gh0jmyrh1ysfvjixvame.jpg",
+        "id": 5,
+        "featured": false
       },
       {
         "date": "2019-06-21T07:00:00.000Z",
@@ -71,7 +85,9 @@
         "source": "Yahoo Finance",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575439465/d0xjojoy5zv4jq75tqcr.png",
         "url": "https://finance.yahoo.com/news/first-home-restaurant-united-states-130500356.html",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575439865/puume0u7ipzimf5rdnju.jpg"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575439865/puume0u7ipzimf5rdnju.jpg",
+        "id": 4,
+        "featured": false
       },
       {
         "date": "2019-06-03T07:00:00.000Z",
@@ -80,7 +96,9 @@
         "source": "Comstocks",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575481575/k0vermkmakvzjdq4cij1.png",
         "url": "https://www.comstocksmag.com/web-only/startup-month-foodnome",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575481656/yfy7upmsfxhxfvam3350.jpg"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575481656/yfy7upmsfxhxfvam3350.jpg",
+        "id": 3,
+        "featured": false
       },
       {
         "date": "2019-05-22T07:00:00.000Z",
@@ -89,7 +107,9 @@
         "source": "KCRA 3 (NBC News)",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575481805/ezp855ot6byggo7rlhlf.png",
         "url": "https://www.kcra.com/article/home-cooks-collective-pushes-yolo-county-to-opt-in-state-law/27562624?fbclid=IwAR1aOIuA9kp4YyOAXA5KQATVq37GtXxsANTi3d8zbb8oxoN4Od4lib169ME",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575481883/h9xgvpccykgkfjerijer.png"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575481883/h9xgvpccykgkfjerijer.png",
+        "id": 2,
+        "featured": false
       },
       {
         "date": "2019-05-20T07:00:00.000Z",
@@ -98,7 +118,9 @@
         "source": "The Davis Vanguard",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575482119/gimetjng41uq3hptohej.png",
         "url": "https://www.davisvanguard.org/2019/05/micro-based-home-cooked-meals-could-democratize-the-food-service-industry-locally/",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575482220/mzy3gthjsoaiot2urmmx.jpg"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575482220/mzy3gthjsoaiot2urmmx.jpg",
+        "id": 1,
+        "featured": false
       },
       {
         "date": "2019-01-17T08:00:00.000Z",
@@ -107,7 +129,9 @@
         "source": "NPR ‘The Salt'",
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1575482510/in9lnzrdfm2a9chr5a8q.png",
         "url": "https://www.npr.org/sections/thesalt/2019/01/17/685626391/selling-food-from-your-kitchen-is-legal-in-california-but-theres-a-catch?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20190117&fbclid=IwAR1_tuonMUxvgMb4b04q9bWOX3nLK94PTJKaPP2YA2u3yiOWUcWGcg06enA",
-        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575482598/wuvsvnp6vlej6uwxehpo.jpg"
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1575482598/wuvsvnp6vlej6uwxehpo.jpg",
+        "id": 0,
+        "featured": false
       }
     ]
   }
