@@ -1,5 +1,10 @@
 # Foodnome Static
 
+## Warning ⚠️
+**Any changes to `press.json` will pushed to production!**
+
+---
+
 👋 Hello! This is where we are keeping the static `JSON` files for the press page of the website.
 
 Each press item has a `id`, `featured`, `date` (as ISOString), `title`, `summary`, `source`, `sourceLogo`, `url`, and `imageUrl`.
