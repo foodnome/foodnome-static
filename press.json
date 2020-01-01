@@ -2,6 +2,17 @@
   "data": {
     "press": [
       {
+        "id": 13,
+        "date": "2020-01-01T04:41:00.555Z",
+        "title": "Foodnome 2019: Home Cooking in California",
+        "summary": "A recap of Foodnome's journey in 2019 building the first network of permitted home restaurants in the United States. Follow along as media coverage ranging from NPR, PBS, and international television capture our gr...",
+        "source": "Foodnome",
+        "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1577854057/rvcqclb7gz3rfdw2b3jl.png",
+        "url": "https://www.youtube.com/watch?v=jnYiltFWJJg&feature=youtu.be",
+        "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/v1577853572/c6nikanfhatmrwxvxcfx.jpg",
+        "featured": true
+      },
+      {
         "id": 12,
         "date": "2019-12-04T08:00:00.000Z",
         "title": "Home Restaurant: A Short Documentary",
@@ -10,7 +21,7 @@
         "sourceLogo": "https://res.cloudinary.com/foodnome/image/upload/v1577732618/hjgfcw0ref7ovazrkr6l.png",
         "url": "https://vimeo.com/377415563",
         "imageUrl": "https://res.cloudinary.com/foodnome/image/upload/w_760,h_404,c_fill/v1577739670/ictfqjxbvqoaob732dts.jpg",
-        "featured": true
+        "featured": false
       },
       {
         "date": "2019-11-12T08:00:00.000Z",
