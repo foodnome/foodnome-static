@@ -1,13 +1,14 @@
 # Foodnome Static
 
 ## Warning ⚠️
+
 **Any changes to `press.json` will pushed to production!**
 
 ---
 
 👋 Hello! This is where we are keeping the static `JSON` files for the press page of the website.
 
-Each press item has a `id`, `featured`, `date` (as ISOString), `title`, `summary`, `source`, `sourceLogo`, `url`, and `imageUrl`.
+Each press item has a `id`, `featured`, `date` (as ISOString), `title`, `summary`, `source`, `sourceLogo`, `url`, `imageUrl`, and `type`.
 
 ```json
 {
@@ -19,8 +20,24 @@ Each press item has a `id`, `featured`, `date` (as ISOString), `title`, `summary
   "source": "Press Enterprise",
   "sourceLogo": "",
   "url": "https://www.pe.com/2019/07/24/how-to-get-a-home-cooked-meal-you-didnt-cook/?fbclid=IwAR0dS4FMGNfqA9oIPHC8f6pYuhpqPWUgixYNl0r4PmiuwlpPTIIxkNhnZ3E",
-  "imageUrl": ""
+  "imageUrl": "",
+  "type": "ARTICLE"
 }
+```
+
+```typescript
+// PressItem type
+interface PressItem {
+  id: number;
+  featured: boolean;
+  date: string;
+  title: string;
+  summary: string;
+  source: string;
+  sourceLogo: string;
+  url: string;
+  imageURL: string;
+  type: "ARTICLE" | "VIDEO"
 ```
 
 I have been using this short helper function to quickly generate the `summary` which has a max charater count of `214` (excluding the ellipsis at the end.
